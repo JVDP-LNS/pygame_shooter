@@ -1,0 +1,8 @@
+numericConfigCount = 3
+mainWindowWidth = 1280
+mainWindowHeight = 720
+frameRate = 60
+backgroundImage = Sprites/background.png
+playerImage = Sprites/player.png
+weaponImage = Sprites/gun0.png
+bulletImage = Sprites/bullet0.png

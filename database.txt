@@ -1,0 +1,2 @@
+bullets=bullets.txt
+weapons=weapons.txt
